@@ -48,7 +48,7 @@ const config = {
 			// both options are optional 
 			// filename: devMode ? '[name].css' : '[name].[hash].css',
 			// chunkFilename: devMode ? '[id].css' : '[id].[hash].css',
-			filename: "./css/style-comp.css"
+			filename: "./style.css"
 		}),
 	]
 };
